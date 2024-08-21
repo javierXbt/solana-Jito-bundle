@@ -3,7 +3,7 @@ Create token + Add Liquidity: The program allows you to enter desired amount of 
 
 **TELEGRAM** for contact : [@solmerd](https://t.me/solmerd) | 
 
-Price of tool is 17 SOL.
+Price of tool is 10 SOL.
 
 ## Features
 
